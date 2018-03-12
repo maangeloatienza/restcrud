@@ -1,0 +1,20 @@
+{
+  "name": "crudapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maangeloatienza",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.17.6",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.2.0",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0"
+  }
+}
